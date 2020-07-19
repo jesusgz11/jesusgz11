@@ -4,7 +4,7 @@
 
 
 I am *Front-End Developer Jr* but my goal is to be *Full-Stack Developer*.
----
+
 
 #### Skills 
 
