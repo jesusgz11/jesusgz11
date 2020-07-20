@@ -13,7 +13,7 @@ I like to share my knowledge and help those who need it. I also love cats and do
 #### Skills 
 
 
-![JavaScript Logo](images/JS.png)![CSS Logo](images/CSS.png)![HTML Logo](images/HTML.png)
+![JavaScript Logo](/images/JS.png)![CSS Logo](/images/CSS.png)![HTML Logo](/images/HTML.png)
 ***
 #### Social Media
-[![Facebook](images/facebook.png)](https://www.facebook.com/JesusGuzman11)[![LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/jes%C3%BAs-guzm%C3%A1n-725b96150/)[![Twitter](images/twitter.png)](https://twitter.com/Jesus_Guzman03)[![Instagram](images/instagram.png)](https://www.instagram.com/jesus_guzman0311/?hl=es-la)[![Spotify](images/spotify.png)](https://open.spotify.com/user/0qowo2bjmgd9au8rqbd7z3zfq?si=63rtIDtoTaWN4_mELA4psw)
+[![Facebook](/images/facebook.png)](https://www.facebook.com/JesusGuzman11)[![LinkedIn](/images/linkedin.png)](https://www.linkedin.com/in/jes%C3%BAs-guzm%C3%A1n-725b96150/)[![Twitter](/images/twitter.png)](https://twitter.com/Jesus_Guzman03)[![Instagram](/images/instagram.png)](https://www.instagram.com/jesus_guzman0311/?hl=es-la)[![Spotify](/images/spotify.png)](https://open.spotify.com/user/0qowo2bjmgd9au8rqbd7z3zfq?si=63rtIDtoTaWN4_mELA4psw)
