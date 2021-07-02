@@ -19,8 +19,7 @@ I like to share my knowledge and help those who need it. I also love cats and do
 
 #### :toolbox: Technologies
 <div>
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2B867E
-  &labelColor=1A1B27" />
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2B867E&labelColor=1A1B27" />
   <img src="https://img.shields.io/badge/Tool-React.js-informational?style=flat&logo=react&logoColor=white&color=2B867E&labelColor=1A1B27" />
   <img src="https://img.shields.io/badge/Tool-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2B867E&labelColor=1A1B27" />
   <img src="https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2B867E&labelColor=1A1B27" />
