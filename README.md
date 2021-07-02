@@ -11,8 +11,8 @@ I like to share my knowledge and help those who need it. I also love cats and do
 
 ## :chart_with_upwards_trend: GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=JesusGuzman11&show_icons=true&theme=tokyonight&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusGuzman11&langs_count=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=JesusGuzman11&show_icons=true&theme=tokyonight&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusGuzman11&langs_count=3" />
 
 
 
@@ -38,6 +38,7 @@ I like to share my knowledge and help those who need it. I also love cats and do
 </div>
 
 ## 😄 Social Media
+![https://img.shields.io/badge/Facebook-JesusGuzman11-informational?style=social&logo=facebook](https://www.facebook.com/JesusGuzman11){:target="_blank"}
 <div>
 <a href="https://www.facebook.com/JesusGuzman11" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-JesusGuzman11-informational?style=social&logo=facebook" />
