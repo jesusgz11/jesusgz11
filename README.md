@@ -1,6 +1,6 @@
 # Greetings <img src="./assets/shake.gif" width="30px">
 
-### About me.
+### About me
 
 <p style="text-align: justify">
 My name is Jesús Guzmán i am <i>Front-End Developer Jr </i> but my goal is to be <i>Full-Stack Developer </i>. I like basketball and learn a lot about technologies for web and mobile development.
@@ -9,10 +9,9 @@ I like to share my knowledge and help those who need it. I also love cats and do
 </p>
 
 
-
 ### :chart_with_upwards_trend: GitHub Stats
 
-<img height="204px" src="https://github-readme-stats.vercel.app/api?username=JesusGuzman11&show_icons=true&theme=tokyonight&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=JesusGuzman11&show_icons=true&theme=tokyonight&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusGuzman11&langs_count=3" />
 
 
