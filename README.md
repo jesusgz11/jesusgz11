@@ -38,7 +38,7 @@ I like to share my knowledge and help those who need it. I also love cats and do
 </div>
 
 ## 😄 Social Media
-![https://img.shields.io/badge/Facebook-JesusGuzman11-informational?style=social&logo=facebook](https://www.facebook.com/JesusGuzman11){:target="_blank"}
+![](https://img.shields.io/badge/Facebook-JesusGuzman11-informational?style=social&logo=facebook)
 <div>
 <a href="https://www.facebook.com/JesusGuzman11" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-JesusGuzman11-informational?style=social&logo=facebook" />
