@@ -1,6 +1,6 @@
 # Greetings <img src="./assets/shake.gif" width="30px">
 
-### About me
+## About me
 
 <p style="text-align: justify">
 My name is Jesús Guzmán i am <i>Front-End Developer Jr </i> but my goal is to be <i>Full-Stack Developer </i>. I like basketball and learn a lot about technologies for web and mobile development.
@@ -9,14 +9,14 @@ I like to share my knowledge and help those who need it. I also love cats and do
 </p>
 
 
-### :chart_with_upwards_trend: GitHub Stats
+## :chart_with_upwards_trend: GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=JesusGuzman11&show_icons=true&theme=tokyonight&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusGuzman11&langs_count=3" />
 
 
 
-#### :toolbox: Technologies
+## :toolbox: Technologies
 <div>
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2B867E&labelColor=1A1B27" />
   <img src="https://img.shields.io/badge/Tool-React.js-informational?style=flat&logo=react&logoColor=white&color=2B867E&labelColor=1A1B27" />
@@ -37,7 +37,7 @@ I like to share my knowledge and help those who need it. I also love cats and do
   <img src="https://img.shields.io/badge/Tool-MaterialUI-informational?style=flat&logo=materialui&logoColor=white&color=2B867E&labelColor=1A1B27" />
 </div>
 
-#### 😄 Social Media
+## 😄 Social Media
 <div>
 <a href="https://www.facebook.com/JesusGuzman11">
   <img src="https://img.shields.io/badge/Facebook-JesusGuzman11-informational?style=social&logo=facebook" />
