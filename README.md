@@ -4,9 +4,9 @@
 </a>
 </p>
 
-# Greetings <img src="./assets/shake.gif" width="30px">
-
 <img src="./assets/portada.jpeg">
+
+# Greetings <img src="./assets/shake.gif" width="30px">
 
 ## About me
 
