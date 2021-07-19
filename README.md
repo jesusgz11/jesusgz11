@@ -6,6 +6,8 @@
 
 # Greetings <img src="./assets/shake.gif" width="30px">
 
+<img src="./assets/portada.jpeg">
+
 ## About me
 
 <p style="text-align: justify">
