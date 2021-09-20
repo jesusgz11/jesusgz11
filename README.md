@@ -11,7 +11,7 @@
 ## About me
 
 <p style="text-align: justify">
-My name is Jesús Guzmán i am <i>Front-End Developer Jr </i> but my goal is to be <i>Full-Stack Developer </i>. I like basketball and learn a lot about technologies for web and mobile development.
+My name is Jesús Guzmán i am <i>Front-End Developer </i> but my goal is to be <i>Full-Stack Developer </i>. I like basketball and learn a lot about technologies for web and mobile development.
 
 I like to share my knowledge and help those who need it. I also love cats and dogs and I also like superhero movies especially those from DC. Some of my hobbies are swimming, video games, watching movies and anime series and training by taking technology courses.
 </p>
