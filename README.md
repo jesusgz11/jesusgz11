@@ -20,8 +20,8 @@ Some of my hobbies are basketball, swimming, video games, watching movies (speci
 ## :chart_with_upwards_trend: GitHub Stats
 
 <div style="width: 100%; display: flex; align-items:flex-start; justify-content: space-between;">
-<img src="https://github-readme-stats.vercel.app/api?username=JesusGuzman11&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusGuzman11&theme=tokyonight&langs_count=3" />
+<img src="https://github-readme-stats.vercel.app/api?username=jesusgz11&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusgz11&theme=tokyonight&langs_count=3" />
 </div>
 
 ## :toolbox: Technologies
