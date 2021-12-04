@@ -1,6 +1,6 @@
 <p align="right"> 
-<a href="https://github.com/JesusGuzman11">
-  <img src="https://komarev.com/ghpvc/?username=JesusGuzman11" />
+<a href="https://github.com/jesusgz11">
+  <img src="https://komarev.com/ghpvc/?username=jesusgz11" />
 </a>
 </p>
 
@@ -11,19 +11,21 @@
 ## About me
 
 <p style="text-align: justify">
-My name is Jesús Guzmán i am <i>Front-End Developer </i> but my goal is to be <i>Full-Stack Developer </i>. I like basketball and learn a lot about technologies for web and mobile development.
+My name is Jesús Guzmán i am <i>Front-End Developer </i> but my goal is to be <i>Full-Stack Developer</i>. I like to share my knowledge and help those who need it. By the way i am also an animal lover :heart:
 
-I like to share my knowledge and help those who need it. I also love cats and dogs and I also like superhero movies especially those from DC. Some of my hobbies are swimming, video games, watching movies and anime series and training by taking technology courses.
+Some of my hobbies are basketball, swimming, video games, watching movies (specially action-science fiction films) and anime series.
+
 </p>
 
-
 ## :chart_with_upwards_trend: GitHub Stats
+
 <div style="width: 100%; display: flex; align-items:flex-start; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=JesusGuzman11&show_icons=true&theme=tokyonight&count_private=true" />
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusGuzman11&theme=tokyonight&langs_count=3" />
 </div>
 
 ## :toolbox: Technologies
+
 <div>
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2B867E&labelColor=1A1B27" />
   <img src="https://img.shields.io/badge/Tool-React.js-informational?style=flat&logo=react&logoColor=white&color=2B867E&labelColor=1A1B27" />
@@ -45,20 +47,21 @@ I like to share my knowledge and help those who need it. I also love cats and do
 </div>
 
 ## 😄 Social Media
+
 <div>
-<a href="https://www.facebook.com/JesusGuzman11" onclick="return false;">
-  <img src="https://img.shields.io/badge/Facebook-JesusGuzman11-informational?style=social&logo=facebook" />
+<a href="https://www.facebook.com/jesgz11/" onclick="return false;">
+  <img src="https://img.shields.io/badge/Facebook-Jesús&#32;Guzmán-informational?style=social&logo=facebook" />
 </a>
-<a href="https://www.instagram.com/jesusguzman0311/?hl=es-la" onclick="return false;">
-  <img src="https://img.shields.io/badge/Instagram-jesusguzman0311-informational?style=social&logo=instagram" />
+<a href="https://www.instagram.com/jesusgz11/?hl=es-la" onclick="return false;">
+  <img src="https://img.shields.io/badge/Instagram-jesusgz11-informational?style=social&logo=instagram" />
 </a>
-<a href="https://open.spotify.com/user/0qowo2bjmgd9au8rqbd7z3zfq?si=63rtIDtoTaWN4_mELA4psw&nd=1" onclick="return false;">
-  <img src="https://img.shields.io/badge/Spotify-Jesus-informational?style=social&logo=spotify" />
+<a href="https://open.spotify.com/user/0qowo2bjmgd9au8rqbd7z3zfq?si=6yQ-MgPNTGaKtJZVx0T8ig&utm_source=copy-link" onclick="return false;">
+  <img src="https://img.shields.io/badge/Spotify-Jesús&#32;Guzmán-informational?style=social&logo=spotify" />
 </a>
-<a href="https://twitter.com/JesusGuzman1103" onclick="return false;">
-  <img src="https://img.shields.io/badge/Twitter-JesusGuzman1103-informational?style=social&logo=twitter" />
+<a href="https://twitter.com/jesgz11" onclick="return false;">
+  <img src="https://img.shields.io/badge/Twitter-jesgz11-informational?style=social&logo=twitter" />
 </a>
 <a href="https://www.linkedin.com/in/jes%C3%BAs-guzm%C3%A1n-725b96150/" onclick="return false;">
-  <img src="https://img.shields.io/badge/LinkedIn-JesusGuzman-informational?style=social&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Jesús&#32;Guzmán-informational?style=social&logo=linkedin" />
 </a>
 </div>
