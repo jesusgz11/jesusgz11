@@ -75,7 +75,7 @@ Some of my hobbies are basketball, swimming, video games, watching movies (speci
 
 **_Udemy:_**
 
-<ul style="list-style-image: url(assets/estrella.png);list-style-position: outside;">
+<ul style="list-style-image: url(./assets/estrella.png);list-style-position: outside;">
   <li>
     <a href="https://www.udemy.com/certificate/UC-d086cc2c-5b25-4c85-9bbc-e085c9462fc7/" style="color:#628FDA;text-decoration: underline;">JavaScript</a>
   </li>
