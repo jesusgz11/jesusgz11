@@ -67,32 +67,6 @@ Some of my hobbies are basketball, swimming, video games, watching movies (speci
   <img src="https://img.shields.io/badge/JSON&#32;Web&#32;Tokens-informational?style=flat&logo=jsonwebtokens&logoColor=white&color=2B867E&labelColor=1A1B27" />
 </div>
 
-## :mortar_board: Courses & License
-
-**_Bachelor's Degree: Computer Science_**
-
-**_Professional License: 12494550_**
-
-**_Udemy:_**
-
-<ul>
-  <li>
-    <a href="https://www.udemy.com/certificate/UC-d086cc2c-5b25-4c85-9bbc-e085c9462fc7/" style="color:#628FDA;text-decoration: underline;">JavaScript</a>
-  </li>
-  <li>
-    <a href="https://www.udemy.com/certificate/UC-c7960f2e-fcdb-4170-9a5f-16d7c060893b/" style="color:#628FDA;text-decoration: underline;">TypeScript</a>
-  </li>
-  <li>
-    <a href="https://www.udemy.com/certificate/UC-65cc07ff-c152-4339-b3c3-9816732860d7/" style="color:#628FDA;text-decoration: underline;">ReactJS</a>
-  </li>
-  <li>
-    <a href="https://www.udemy.com/certificate/UC-7f001521-1ffb-430c-b3cd-5a44c5ddcfb2/" style="color:#628FDA;text-decoration: underline;">NextJS</a>
-  </li>
-  <li>
-    <a href="https://www.udemy.com/certificate/UC-ec6d33d1-dbe9-469e-93ed-fd4c2fdd55ca/" style="color:#628FDA;text-decoration: underline;">Data Structures + Algorithms</a>
-  </li>
-</ul>
-
 ## 😄 Social Media
 
 <div>
