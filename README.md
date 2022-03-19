@@ -1,9 +1,3 @@
-<p align="right"> 
-<a href="https://github.com/jesusgz11">
-  <img src="https://komarev.com/ghpvc/?username=jesusgz11" />
-</a>
-</p>
-
 <img src="./assets/portada.jpeg">
 
 # Greetings <img src="./assets/shake.gif" width="30px">
